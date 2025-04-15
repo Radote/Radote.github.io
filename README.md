@@ -1,3 +1,5 @@
-# This is my website.
+# What I'm up to.
 
-Some day I'll do something with this.
+I do ML and other stuff. Perhaps most useful to others is Smack, a smart (and pretty) distraction-blocker I made.
+
+
